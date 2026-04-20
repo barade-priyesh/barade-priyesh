@@ -32,6 +32,7 @@ I build scalable web applications, automation workflows, and API-driven systems 
 
 ### 🌐 Web & CMS
 ![WordPress](https://img.shields.io/badge/WordPress-black?style=flat-square&logo=wordpress)
+![Elementor](https://img.shields.io/badge/Elementor-black?style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap)
@@ -42,10 +43,16 @@ I build scalable web applications, automation workflows, and API-driven systems 
 ![ClickUp](https://img.shields.io/badge/ClickUp-black?style=flat-square)
 ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi)
 
-### 🔗 APIs & DevOps
+### 🔗 APIs & Integrations
 ![REST API](https://img.shields.io/badge/REST_API-black?style=flat-square)
+![Razorpay](https://img.shields.io/badge/Razorpay-black?style=flat-square)
+![PhonePe](https://img.shields.io/badge/PhonePe-black?style=flat-square)
+![Zoho CRM](https://img.shields.io/badge/Zoho_CRM-black?style=flat-square)
+
+### ⚙️ DevOps & Tools
 ![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab)
-![CI/CD](https://img.shields.io/badge/CI/CD-black?style=flat-square)
+![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 
 ---
