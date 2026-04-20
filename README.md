@@ -1,4 +1,4 @@
-# Hi, I'm Priyesh 👋  
+# Hi, I'm Priyesh Barade 👋  
 🚀 Software Engineer | Automation Specialist | WordPress Developer  
 
 I build scalable web applications, automation workflows, and API-driven systems that simplify complex processes and improve efficiency.
@@ -117,13 +117,4 @@ I build scalable web applications, automation workflows, and API-driven systems 
 
 ---
 
-## 🔥 Streak Stats
-![](https://streak-stats.demolab.com/?user=barade-priyesh&theme=radical)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=barade-priyesh&color=blue)
-
----
-
-⭐️ From [Priyesh](https://github.com/barade-priyesh)
+⭐️ From [Priyesh Barade](https://github.com/barade-priyesh)
